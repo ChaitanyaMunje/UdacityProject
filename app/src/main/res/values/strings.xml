@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="_0">0</string>
+    <string name="reset_score">RESET SCORE</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="red_card">Red Card</string>
+    <string name="increase_goals">Increase Goals</string>
+    <string name="team_b">Team B</string>
+
+    <string name="team_a">Team A</string>
+    <string name="quest_1">Which are the languages to be known for developing Android Apps ? (Select 2 options)</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="python">Python</string>
+    <string name="java">Java</string>
+    <string name="xml">XML</string>
+    <string name="html">HTML</string>
+    <string name="whose_image_is_this">Whose image is this ?</string>
+    <string name="mark_zukerberg">Mark Zukerberg</string>
+    <string name="bill_gates">Bill Gates</string>
+    <string name="waren_buffet">Waren Buffet</string>
+    <string name="sundar_pichai">Sundar Pichai</string>
+    <string name="q3">What is the unit of text size in android TextView?</string>
+    <string name="dip">dip</string>
+    <string name="dp">dp</string>
+    <string name="sp">sp</string>
+    <string name="mm">mm</string>
+    <string name="q4">What is the datatype of 100 ?</string>
+    <string name="i">int</string>
+    <string name="bool">boolean</string>
+    <string name="doub">double</string>
+    <string name="str">String</string>
+    <string name="q5">What is the datatype of true or false ?</string>
+    <string name="type_your_answer">Type your Answer</string>
+    <string name="submit_answers">Submit Answers</string>
+</resources>
